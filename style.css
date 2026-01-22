@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+    background-color: #8AADCA;
+}
+h1 {
+    background-color: #84B9D2;
+    color: #E4E37D;
+    border-style: double;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    font-size: 100px;
+    text-align: center;
+}
+h2  {
+    font-size: 2px;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+table {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    text-shadow: 0px 0px #D5DC66;
+}
+h2 {
+    font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+}
+font {
+    font-family: Segoe, Segoe UI, DejaVu Sans, Trebuchet MS, Verdana, sans-serif;
+    font-weight: 200;
+}
